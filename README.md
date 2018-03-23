@@ -1,5 +1,7 @@
 Cryptocurrency Ticker
 
+I made this using React.
+
 ## Table of Contents
 
 
